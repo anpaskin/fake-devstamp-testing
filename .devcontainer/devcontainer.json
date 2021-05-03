@@ -1,0 +1,6 @@
+{
+    "name": "Focal",
+    "build": {
+        "dockerfile": "Dockerfile",
+    }
+}
